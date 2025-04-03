@@ -1,0 +1,9 @@
+name: funtracing
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.13
+  - jupyter
+  - numpy
+  - matplotlib
